@@ -1,0 +1,31 @@
+The annotation form allows users to:
+
+Create and edit annotations:
+
+Form with all fields from the Excel template
+Auto-filled document and group information
+Dropdown options that can be extended with new values
+
+
+Manage existing annotations:
+
+View all annotations in a table format
+Search and filter by document or group
+Edit or delete existing annotations
+Export all annotations to Excel
+
+
+Manage documents and groups:
+
+Add, view, and delete documents
+Add and delete groups within documents
+See which documents and groups are available
+
+
+Export to Excel:
+
+Convert all annotations to Excel format that matches your template
+Download the generated file for further use
+
+
+
